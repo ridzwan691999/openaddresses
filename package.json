@@ -13,7 +13,7 @@
   "devDependencies": {
     "ajv": "6.12.x",
     "glob": "7.1.x",
-    "lodash": "4.17.x",
+    "lodash": "4.18.x",
     "request": "2.88.x",
     "tap-dot": "2.0.x",
     "tape": "5.0.x"
